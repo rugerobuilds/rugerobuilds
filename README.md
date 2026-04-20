@@ -17,9 +17,9 @@ HTML • CSS • SQLite
 ---
 
 ## 📦 Selected Work
-- **Project Name** — one-line purpose  
-- **Project Name** — what it solves  
-- **Project Name** — why it exists  
+- **[NIX-RAY](https://github.com/rugerobuilds/nix-ray)** — A hardened, emerald-tinted system manager for Linux. Purge APT, Snap, and PIP units with surgical precision. 
+- **Project Name** — (plaveholder)  
+- **Project Name** — (placeholder) 
 
 ---
 
